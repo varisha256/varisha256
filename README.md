@@ -73,7 +73,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [AWS-Control-Tower-Centralized-Inspection](#) | Multi-account AWS landing zone with centralized Palo Alto inspection & app deployment | AWS, Control Tower, TGW, GWLB, CodeBuild |
-| [GlobalProtect-SSL-VPN-SOP](#) | Enterprise-grade VPN setup guide for AWS Palo Alto firewalls | AWS, Palo Alto |
+| [GlobalProtect-SSL-VPN](#) | Enterprise-grade VPN setup guide for AWS Palo Alto firewalls | AWS, Palo Alto |
 | [Multi-VPC-TGW-CloudFormation](#) | Automated multi-VPC creation with TGW & GWLB integration | AWS, CloudFormation |
 | [EKS-Datadog-Observability](#) | Unified monitoring & logging for 50+ EKS clusters | EKS, Datadog, Prometheus |
 | [GCP-Terraform-GitOps](#) | GitOps-driven GCP infrastructure provisioning | GCP, Terraform, GitHub Actions |
