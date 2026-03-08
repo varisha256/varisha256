@@ -127,25 +127,7 @@ Scripting & Languages:
 
 <div align="center">
 
-<!-- GitHub Stats - Using multiple fallback services -->
-<a href="https://github.com/varisha256">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=varisha256&show_icons=true&theme=github_dark&count_private=true&hide_rank=false&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/varisha256">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varisha256&layout=donut&theme=github_dark&hide=html,css&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
-</a>
-
-<!-- GitHub Streak Stats -->
-<img height="180" src="https://streak-stats.demolab.com/?user=varisha256&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabel=58a6ff&sideNum=c9d1d9&dates=c9d1d9" alt="GitHub Streak"/>
-
-<!-- GitHub Metrics -->
-<img height="180" src="https://metrics.leerob.io/github?username=varisha256&token=ghp_demo" onerror="this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varisha256&theme=github_dark'" alt="GitHub Metrics"/>
-
-</div>
-
 <!-- GitHub Contribution Graph -->
-<div align="center">
-
 ![GitHub Contributions](https://ghchart.rshah.org/58a6ff/varisha256)
 
 </div>
