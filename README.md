@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:326CE5,50:0077B5,100:00A8E1&section=header&text=Varisha%20Karim%20P%20MD&desc=Senior%20Cloud%20&%20DevOps%20Consultant&descSize=24&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&rotate=0&strokeColor=ffffff&strokeWidth=2)
+<img src="https://capsule-render.vercel.app/api?type=section&height=280&color=0:161B22,100:0D1117&section=header&text=Varisha%20Karim%20P%20MD&desc=Senior%20Cloud%20&%20DevOps%20Consultant&descSize=24&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&borderColor=1F6FEB&borderWidth=3" alt="Profile Banner"/>
 
 </div>
 
