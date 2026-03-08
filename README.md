@@ -5,11 +5,11 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&text=Varisha%20Karim%20P%20MD&desc=Senior%20Cloud%20&%20DevOps%20Engineer%20|%20SRE%20|%20DevSecOps&fontSize=40&fontColor=ffffff&animation=fade&fontAlignY=35&descSize=20)
+![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&text=Varisha%20Karim%20P%20MD&desc=Lead%20Cloud%20&%20DevOps%20Engineer%20|%20SRE%20|%20DevSecOps&fontSize=40&fontColor=ffffff&animation=fade&fontAlignY=35&descSize=20)
 
 # 👋 Hello, I'm Varisha Karim P MD
 
-### ☁️ Senior Cloud & DevOps Engineer | SRE | DevSecOps Specialist
+### ☁️ Lead Cloud & DevOps Engineer | SRE | DevSecOps Specialist
 
 > 🌏 Designing **secure, resilient, and cost-optimized** cloud infrastructure for enterprise-scale environments across **AWS & GCP**
 
@@ -23,7 +23,7 @@
 
 ## 🎯 Professional Summary
 
-Results-driven **Cloud & DevOps Engineer** with extensive experience architecting enterprise-grade infrastructure solutions. Proven track record of delivering **$42K+ annual cost savings** through strategic optimization, automation, and FinOps practices. Specialized in building secure, scalable, and observable cloud-native systems.
+**Lead Cloud & DevOps Engineer** with 9+ years of experience architecting enterprise-grade infrastructure solutions across AWS and GCP. Proven track record of delivering **$42K+ annual cost savings** and **40% infrastructure cost optimization** through strategic automation and FinOps practices. Specialized in building secure, scalable, and observable cloud-native systems with **99.99% uptime**.
 
 ---
 
