@@ -5,11 +5,11 @@
 
 <div align="center">
 
-![Profile Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=326CE5&center=true&vCenter=true&width=750&height=100&lines=Varisha+Karim+P+MD;Senior+Cloud+%26+DevOps+Consultant;SRE+%7C+DevSecOps+%7C+Platform+Engineering)
+![Profile Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=326CE5&center=true&vCenter=true&width=750&height=100&lines=Varisha+Karim+P+MD;Senior+Cloud+%26+DevOps+Consultant;DevOps+%7C+DevSecOps+%7C+SRE+%7C+Platform+Engineering)
 
 # 👋 Hello, I'm Varisha Karim P MD
 
-### ☁️ Senior Cloud & DevOps Consultant | SRE | Platform Engineering
+### ☁️ Senior Cloud & DevOps Consultant | DevOps | DevSecOps | SRE | Platform Engineering
 
 > 🌏 Designing **secure, resilient, and cost-optimized** cloud infrastructure for enterprise-scale environments across **AWS & GCP**
 
