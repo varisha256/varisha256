@@ -5,11 +5,11 @@
 
 <div align="center">
 
-![Profile Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=326CE5&center=true&vCenter=true&width=750&height=100&lines=Varisha+Karim+P+MD;Senior+Cloud+%26+DevOps+Architect;SRE+%7C+DevSecOps+%7C+Platform+Engineering)
+![Profile Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=326CE5&center=true&vCenter=true&width=750&height=100&lines=Varisha+Karim+P+MD;Senior+Cloud+%26+DevOps+Consultant;SRE+%7C+DevSecOps+%7C+Platform+Engineering)
 
 # 👋 Hello, I'm Varisha Karim P MD
 
-### ☁️ Senior Cloud & DevOps Architect | SRE | Platform Engineering
+### ☁️ Senior Cloud & DevOps Consultant | SRE | Platform Engineering
 
 > 🌏 Designing **secure, resilient, and cost-optimized** cloud infrastructure for enterprise-scale environments across **AWS & GCP**
 
@@ -23,7 +23,7 @@
 
 ## 🎯 Professional Summary
 
-**Senior Cloud & DevOps Architect** with 9+ years of experience architecting enterprise-grade infrastructure solutions across AWS and GCP. Proven track record of delivering **$42K+ annual cost savings** and **40% infrastructure cost optimization** through strategic automation and FinOps practices. Specialized in building secure, scalable, and observable cloud-native systems with **99.99% uptime**.
+**Senior Cloud & DevOps Consultant** with 9+ years of experience architecting enterprise-grade infrastructure solutions across AWS and GCP. Proven track record of delivering **$42K+ annual cost savings** and **40% infrastructure cost optimization** through strategic automation and FinOps practices. Specialized in building secure, scalable, and observable cloud-native systems with **99.99% uptime**.
 
 ---
 
