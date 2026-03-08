@@ -82,11 +82,10 @@ Scripting & Languages:
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
-| ![AWS](https://img.shields.io/badge/AWS%20Certified-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | 🏆 Active |
-| ![CKA](https://img.shields.io/badge/CKA-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | Cloud Native Computing Foundation | 🏆 Active |
-| ![Terraform](https://img.shields.io/badge/Terraform%20Associate-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white) | HashiCorp | 🏆 Active |
-
-*Add your actual certifications by updating this section*
+| ![KCNA](https://img.shields.io/badge/KCNA-Kubernetes%20and%20Cloud%20Native%20Associate-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | Cloud Native Computing Foundation | 🏆 Active |
+| ![KCSA](https://img.shields.io/badge/KCSA-Kubernetes%20Cloud%20Security%20Associate-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | Cloud Native Computing Foundation | 🏆 Active |
+| ![GCP](https://img.shields.io/badge/GCP-Associate%20Cloud%20Engineer-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Google Cloud | 🏆 Active |
+| ![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | Amazon Web Services | 🏆 Active |
 
 </div>
 
