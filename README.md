@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&text=Varisha%20Karim%20P%20MD&desc=Lead%20Cloud%20&%20DevOps%20Engineer%20|%20SRE%20|%20DevSecOps&fontSize=40&fontColor=ffffff&animation=fade&fontAlignY=35&descSize=20)
+![Profile Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&pause=1000&color=326CE5&center=true&vCenter=true&width=750&height=60&lines=Varisha+Karim+P+MD;Lead+Cloud+%26+DevOps+Engineer;SRE+%7C+DevSecOps+%7C+Kubernetes)
 
 # 👋 Hello, I'm Varisha Karim P MD
 
@@ -39,9 +39,9 @@
 
 | **Containers & Kubernetes** | **Observability & SRE** | **FinOps & Cost Optimization** |
 |:---:|:---:|:---:|
-| ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) | ![Cost Optimization](https://img.shields.io/badge/FinOps-%2300A8E1.svg?style=for-the-badge&logo=cloudflare&logoColor=white) |
-| ![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) | ![Rightsizing](https://img.shields.io/badge/Rightsizing-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
-| ![GKE](https://img.shields.io/badge/GKE-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![Savings Plans](https://img.shields.io/badge/Savings%20Plans-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) | ![Cost Optimization](https://img.shields.io/badge/FinOps-%2300A8E1.svg?style=for-the-badge&logo=cloudflare&logoColor=white) |
+| ![EKS](https://img.shields.io/badge/EKS-%23FF9900.svg?style=for-the-badge&logo=amazon-eks&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![Rightsizing](https://img.shields.io/badge/Rightsizing-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![GKE](https://img.shields.io/badge/GKE-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | ![CloudWatch](https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white) | ![Savings Plans](https://img.shields.io/badge/Savings%20Plans-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 
 </div>
 
@@ -64,7 +64,7 @@ Security & Compliance:
   - Trivy, Anchore, HashiCorp Vault, OPA Gatekeeper, CIS/NIST/ISO
 
 Observability Stack:
-  - Datadog, Prometheus, Grafana, CloudWatch, ELK, OpenSearch
+  - Prometheus, Grafana, CloudWatch, ELK, OpenSearch
 
 Containers & Orchestration:
   - Kubernetes (EKS/GKE), Docker, Istio Service Mesh
@@ -111,8 +111,8 @@ Scripting & Languages:
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| [**EKS Observability Stack**](https://github.com/varisha256/k8s-observability-stack) | Unified monitoring for 50+ EKS clusters | Prometheus, Grafana, Datadog | ✅ Production |
-| [**Multi-Cluster Observability**](https://github.com/varisha256/eks-multi-cluster-observability-setup) | Centralized logging & metrics across clusters | EKS, Datadog, OpenSearch | ✅ Production |
+| [**EKS Observability Stack**](https://github.com/varisha256/k8s-observability-stack) | Unified monitoring for 50+ EKS clusters | Prometheus, Grafana, CloudWatch | ✅ Production |
+| [**Multi-Cluster Observability**](https://github.com/varisha256/eks-multi-cluster-observability-setup) | Centralized logging & metrics across clusters | EKS, Prometheus, OpenSearch | ✅ Production |
 
 ### ⚙️ CI/CD Templates & Automation
 
