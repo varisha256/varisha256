@@ -5,7 +5,11 @@
 
 <div align="center">
 
-![Profile Banner](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&color=326CE5&center=true&vCenter=true&width=750&height=100&lines=Varisha+Karim+P+MD;Senior+Cloud+%26+DevOps+Consultant;DevOps+%7C+DevSecOps+%7C+SRE+%7C+Platform+Engineering)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:326CE5,50:0077B5,100:00A8E1&section=header&text=Varisha%20Karim%20P%20MD&desc=Senior%20Cloud%20&%20DevOps%20Consultant&descSize=24&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&rotate=0&strokeColor=ffffff&strokeWidth=2)
+
+</div>
+
+<div align="center">
 
 # 👋 Hello, I'm Varisha Karim P MD
 
@@ -13,11 +17,13 @@
 
 > 🌏 Designing **secure, resilient, and cost-optimized** cloud infrastructure for enterprise-scale environments across **AWS & GCP**
 
+</div>
+
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-D1463F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vsk.orr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varisha-karim-cloud-devops)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209573320835-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919573320835)
-
----
 
 </div>
 
